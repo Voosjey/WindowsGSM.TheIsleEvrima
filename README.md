@@ -5,9 +5,9 @@ I sat down and adapted the plugin from ksduster https://github.com/ksduster/Wind
 🧩WindowsGSM plugin that provides TheIsle Evrima Dedicated server support! Updated for the newest Evrima version.
 
 - A modified version of [@menix1337](https://www.github.com/menix1337)'s [Legacy](https://github.com/menix1337/WindowsGSM.TheIsleLegacy)
-- A modified version of [@ksduster] (https://github.com/ksduster)  (https://github.com/ksduster/WindowsGSM.TheIsle)
+- A modified version of [@ksduster](https://github.com/ksduster)  (https://github.com/ksduster/WindowsGSM.TheIsle)
 
-- Report issues with the WindowsGSM plugin on this github please. See [New issue](https://github.com/ksduster/WindowsGSM.TheIsle/issues/new)
+- Report issues with the WindowsGSM plugin on this github please. See [New issue](https://github.com/Voosjey/WindowsGSM.TheIsleEvrima/issues/new)
 # This version adds in support for:
 - Automatic download of Game.ini and Engine.ini upon server bug from Evrima where the files are deleted when stopped.
 - Game.ini settings under [/Script/TheIsle.TIGameSession] are updated from start params.  Do not update servername or maxplayercount in start params.
@@ -172,4 +172,4 @@ adminListThree could eventually be DM/Event related admins
 
 # License
 
-This project is licensed under the MIT License - see the <a href="https://raw.githubusercontent.com/ksduster/WindowsGSM.TheIsle/main/LICENSE">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="https://raw.githubusercontent.com/Voosjey/WindowsGSM.TheIsleEvrima/main/LICENSE">LICENSE.md</a> file for details
