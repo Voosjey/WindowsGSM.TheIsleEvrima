@@ -1,6 +1,7 @@
 I sat down and adapted the plugin from ksduster https://github.com/ksduster/WindowsGSM.TheIsle for the version from 12/23/2025 with the current Game.ini and Engine.ini
+Description taken from [@ksduster](https://github.com/ksduster) 
 
-# WindowsGSM.TheIsle
+# WindowsGSM.TheIsleEvrima
 
 🧩WindowsGSM plugin that provides TheIsle Evrima Dedicated server support! Updated for the newest Evrima version.
 
