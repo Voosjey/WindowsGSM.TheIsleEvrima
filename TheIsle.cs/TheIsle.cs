@@ -18,9 +18,9 @@ namespace WindowsGSM.Plugins
         {
             name = "WindowsGSM.TheIsleEvrima",
             author = "Voosjey",
-            description = "WindowsGSM plugin for The Isle Evrima Dedicated Server (UE5, AppId 412680 -beta evrima)",
+            description = "WindowsGSM plugin for The Isle Evrima Dedicated Server",
             version = "1.7.4",
-            url = "https://github.com/ksduster/WindowsGSM.TheIsle",
+            url = "https://github.com/Voosjey/WindowsGSM.TheIsleEvrima",
             color = "#34c9eb"
         };
 
@@ -73,7 +73,7 @@ namespace WindowsGSM.Plugins
                     using (WebClient webClient = new WebClient())
                     {
                         await webClient.DownloadFileTaskAsync(
-                            "https://raw.githubusercontent.com/ksduster/The-Isle-Evrima-ini/main/Engine.ini",
+                            "https://raw.githubusercontent.com/Voosjey/The-Isle-Evrima-ini/refs/heads/main/Engine.ini",
                             engineIniPath
                         );
                     }
@@ -282,8 +282,8 @@ namespace WindowsGSM.Plugins
             }
 
             string downloadUrl = iniType == "Game"
-                ? "https://raw.githubusercontent.com/ksduster/The-Isle-Evrima-ini/main/Game.ini"
-                : "https://raw.githubusercontent.com/ksduster/The-Isle-Evrima-ini/main/Engine.ini";
+                ? "https://raw.githubusercontent.com/Voosjey/The-Isle-Evrima-ini/refs/heads/main/Game.ini"
+                : "https://raw.githubusercontent.com/Voosjey/The-Isle-Evrima-ini/refs/heads/main/Engine.ini";
 
             try
             {
