@@ -1,4 +1,5 @@
-German:
+# German:
+
 Ich habe mich hingesetzt und das Plugin von ksduster https://github.com/ksduster/WindowsGSM.TheIsle für die Version vom 23.12.2025 mit der aktuellen Game.ini und Engine.ini angepasst. Beschreibung übernommen von [@ksduster](https://github.com/ksduster) 
 
 # WindowsGSM.TheIsleEvrima 
@@ -136,7 +137,8 @@ Und wenn Sie möchten, können Sie diese Liste mit AdminListThree, AdminListFour
 
 
 
-English:
+# English:
+
 I sat down and adapted the plugin from ksduster https://github.com/ksduster/WindowsGSM.TheIsle for the version from 12/23/2025 with the current Game.ini and Engine.ini.
 Description taken from [@ksduster](https://github.com/ksduster) 
 
