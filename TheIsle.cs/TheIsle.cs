@@ -19,7 +19,7 @@ namespace WindowsGSM.Plugins
             name = "WindowsGSM.TheIsleEvrima",
             author = "Voosjey",
             description = "WindowsGSM plugin for The Isle Evrima Dedicated Server",
-            version = "1.7.4",
+            version = "1.4.0",
             url = "https://github.com/Voosjey/WindowsGSM.TheIsleEvrima",
             color = "#34c9eb"
         };
