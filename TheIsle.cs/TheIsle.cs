@@ -163,7 +163,7 @@ namespace WindowsGSM.Plugins
             await UpdateSettings(_serverData.ServerParam, gameIniPath);
 
             string param = string.IsNullOrWhiteSpace(_serverData.ServerPort) ? string.Empty : $"?Port={_serverData.ServerPort}";
-            param += $"? -nosteamclient -game -server -log";
+            param += $" -nosteamclient -game -server -log";
 
             var p = new Process
             {
